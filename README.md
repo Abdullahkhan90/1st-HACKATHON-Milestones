@@ -1,7 +1,4 @@
-# Milestone2-Resume-by-Abdullah
+GIAIC Hackathon Milestones:
 
-Milestone 2: Publish on GitHub and Host on Versel (100) Points. Created by Abdullah.
+This repository contains the code and documentation for our project developed during the GIAIC hackathon. We successfully completed all defined milestones, demonstrating innovative solutions and robust implementation. Explore our work to understand the project's structure, features, and outcomes. For more details, refer to the individual milestone documentation and code comments.
 
-Objective:
-Publish your Static Resume which is created in Milestone 1 to GitHub repo and deploy it in Versel.
-Push the Project code to a GitHub Repository.
